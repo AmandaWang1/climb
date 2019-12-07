@@ -560,11 +560,6 @@
               <FilePath>..\..\User\stm32f10x_it.h</FilePath>
             </File>
             <File>
-              <FileName>bsp_led.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\User\Led\bsp_led.c</FilePath>
-            </File>
-            <File>
               <FileName>bsp_GeneralTim.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\User\GeneralTim\bsp_GeneralTim.c</FilePath>

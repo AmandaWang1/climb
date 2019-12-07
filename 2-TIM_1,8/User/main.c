@@ -14,7 +14,7 @@ int main(void)
 	ADVANCE_TIMx_Init(0,(200-1),(7200-1),0);
 	
 	/* 高级定时器2初始化 */
-	ADVANCE_TIMx_Init(1,(20-1),(7200-1),0);
+	ADVANCE_TIMx_Init(1,(20-1),(720-1),10);
 	
 	
 	

@@ -28,5 +28,4 @@
 ..\..\output\main.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
 ..\..\output\main.o: ..\..\Libraries\FWlib\inc\stm32f10x_wwdg.h
 ..\..\output\main.o: ..\..\Libraries\FWlib\inc\misc.h
-..\..\output\main.o: ..\..\User\Led\bsp_led.h
 ..\..\output\main.o: ..\..\User\GeneralTim\bsp_GeneralTim.h

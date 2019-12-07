@@ -7,9 +7,9 @@
 #define OFF    0
 
 
-#define GY53_PIN                  GPIO_Pin_6
-#define GY53_PORT                 GPIOB
-#define GY53_CLK                  RCC_APB2Periph_GPIOB
+#define GY53_PIN                  GPIO_Pin_0
+#define GY53_PORT                 GPIOD
+#define GY53_CLK                  RCC_APB2Periph_GPIOD
 
 void GY53_Init (void);
 void BASIC_TIM_IRQHandler(void);
